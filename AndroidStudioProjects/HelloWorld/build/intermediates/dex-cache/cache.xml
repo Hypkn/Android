@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_7cd8053ff4d349a026ea4a4ae54a3824d1019afb.jar" />
+    </item>
+    <item
+        jar="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_7ffa0e02024923b80b2556fb7cf7ba34c179db4f.jar" />
+    </item>
+    <item
+        jar="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_577ffd54af89e27b58a139f8f69e8e2af89153f6.jar" />
+    </item>
+    <item
+        jar="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_85cd78a63155bf9172532a8c75e8f554f3d27074.jar" />
+    </item>
+    <item
+        jar="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_29f14c28b008646d3ed9f79635630e3df8d60cd3.jar" />
+    </item>
+    <item
+        jar="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_a233fff7b9726257ea3de262a32f90d0ee5a5a4d.jar" />
+    </item>
+    <item
+        jar="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_49e553d04f2872016fa5183b99140177aee74e8a.jar" />
+    </item>
+    <item
+        jar="/home/dev/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/dev/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_534f58d2b01636b382ee466fd66fedbf1c8dc00e.jar" />
+    </item>
+
+</items>
