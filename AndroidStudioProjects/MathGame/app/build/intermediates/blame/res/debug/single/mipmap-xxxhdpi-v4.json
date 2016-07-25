@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/dev/Documents/Android/AndroidStudioProjects/MathGame/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
-        "source": "/home/dev/Documents/Android/AndroidStudioProjects/MathGame/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "G:\\Users\\PC7\\AndroidStudioProjects\\Android\\AndroidStudioProjects\\MathGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\mathgame_icon.png",
+        "source": "G:\\Users\\PC7\\AndroidStudioProjects\\Android\\AndroidStudioProjects\\MathGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\mathgame_icon.png"
+    },
+    {
+        "merged": "G:\\Users\\PC7\\AndroidStudioProjects\\Android\\AndroidStudioProjects\\MathGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "G:\\Users\\PC7\\AndroidStudioProjects\\Android\\AndroidStudioProjects\\MathGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

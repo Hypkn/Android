@@ -33,20 +33,19 @@
         android:layout_height="wrap_content"
         android:text="Play"
         android:id="@+id/buttonPlay"
-        android:layout_marginTop="41dp"
-        android:layout_below="@+id/imageView"
-        android:layout_centerHorizontal="true" />
+        android:layout_marginRight="23dp"
+        android:layout_marginEnd="23dp"
+        android:layout_above="@+id/button2"
+        android:layout_alignRight="@+id/button2"
+        android:layout_alignEnd="@+id/button2" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="High Scores"
         android:id="@+id/button2"
-        android:layout_below="@+id/buttonPlay"
-        android:layout_alignLeft="@+id/button3"
-        android:layout_alignStart="@+id/button3"
-        android:layout_alignRight="@+id/button3"
-        android:layout_alignEnd="@+id/button3" />
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
