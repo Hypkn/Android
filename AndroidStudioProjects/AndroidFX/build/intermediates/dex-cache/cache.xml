@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_7c07099f62a603d301d6a3e00d6cd900671ed931.jar" />
+    </item>
+    <item
+        jar="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_6ed6bfa326d9cea3db2fee5685b0cbf237d9305a.jar" />
+    </item>
+    <item
+        jar="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_ce60ac0c254750d48597740bf85cb5229941cdb9.jar" />
+    </item>
+    <item
+        jar="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="629c0b1df4089213881a3db9e506026c021c964c">
+        <dex dex="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/pre-dexed/debug/instant-run_8170a769ff4bb8c5c3b6de21a82ecd2495f92ea4.jar" />
+    </item>
+    <item
+        jar="/home/dev/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_b9bb2dc2975a68d00f97329973f2c38425e8650b.jar" />
+    </item>
+    <item
+        jar="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_81f177b735a33c3648556fb03f5637b218440a88.jar" />
+    </item>
+    <item
+        jar="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_811f8ff1f4eef10260eba7afdfbbdf311e878540.jar" />
+    </item>
+    <item
+        jar="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="309aed408d621f0f428f5b9d67294bd979965353">
+        <dex dex="/home/dev/Documents/Projects/Android/AndroidStudioProjects/AndroidFX/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1238530a82c490c14228652cdba336f59b65109f.jar" />
+    </item>
+
+</items>
