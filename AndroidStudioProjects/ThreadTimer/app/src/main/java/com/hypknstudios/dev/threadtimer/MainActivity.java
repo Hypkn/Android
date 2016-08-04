@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         myHandler = new Handler() {
             public void handleMessage(Message msg) {
                 super.handleMessage(msg);
-                l[l.length - 1]
+
                 if (gameOn) {
                     long seconds = ((System.currentTimeMillis() - startTime)) / 1000;
                     Log.i("info", "seconds =" + seconds);
